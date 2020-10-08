@@ -16,3 +16,14 @@ body{
     user-select: none;
     background-color: brown;
 }
+
+.container{
+    justify-content: center;
+    align-items: center;
+
+}
+
+.selamat {
+    font-size: 3rem;
+    color: chartreuse;
+}
